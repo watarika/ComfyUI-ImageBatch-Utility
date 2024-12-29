@@ -11,3 +11,4 @@ New nodes will be added as needed.
 This node converts an Image Batch into multiple Image Batches with a specified Batch Size.
 If the original batch size is not perfectly divisible, the size of the last Image Batch will be the remainder.
 
+![image](https://github.com/user-attachments/assets/fe369aee-db20-452e-9b50-db0c1ce44d8f)
