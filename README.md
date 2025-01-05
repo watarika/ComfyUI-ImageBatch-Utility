@@ -2,7 +2,7 @@
 
 [English][<a href="README_ja.md">日本語</a>]
 
-This is a collection of custom nodes required for processing multiple images.
+This is a collection of custom nodes required for processing batch images.
 
 Currently, it only includes "Image Batch To Sub Batches."
 New nodes will be added as needed.
