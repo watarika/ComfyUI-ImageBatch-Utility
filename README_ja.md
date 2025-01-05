@@ -11,4 +11,5 @@
 Image Batchを指定したBatch Sizeを持つ複数のImage Batchに変換します。
 割り切れない場合、最後のImage Batchのサイズは余りのサイズになります。
 
+![image](https://github.com/user-attachments/assets/fe369aee-db20-452e-9b50-db0c1ce44d8f)
 
